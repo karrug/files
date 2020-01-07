@@ -6,7 +6,7 @@ filetype plugin on
 filetype plugin indent on
 
 set laststatus=0
-set backspace=indent,eol,start
+"set backspace=indent,eol,start
 set expandtab           " enter spaces when tab is pressed
 set tabstop=4           " use 4 spaces to represent tab
 set softtabstop=4
@@ -35,3 +35,5 @@ hi clear texItalStyle
 syntax off set nohlsearch set t_C
 highlight Search ctermbg=gray
 highlight Visual cterm=NONE ctermbg=233 ctermfg=NONE
+
+set compatible
