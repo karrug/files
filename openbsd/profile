@@ -23,6 +23,10 @@ esac
 set -o vi
 alias ssh2='ssh -o ServerAliveInterval=90 -o StrictHostKeyChecking=no $1'
 alias lagu='rsync -azP -e "ssh -p 2222" $1:/storage/emulated/0/Downloads /root/Downloads'
-# wsconsctl keyboard.map+="keysym Caps_Lock = Escape"
+wsconsctl display.brightness=50
+wsconsctl keyboard.map+="keysym Caps_Lock = Escape" > /dev/null 2>&1
 HISTFILE="/root/.kshhistory"
 HISTSIZE=1000
+wsconsctl keyboard.repeat.del1=200
+wsconsctl keyboard.repeat.deln=30
+wsconsctl keyboard.bell.volume=0
