@@ -42,14 +42,13 @@ Developed around 10 projects.
 - Minimalist, inclined to do things as simple as possible.
 
 # ACADEMIC PROFILE
-B-Tech, Computer Science,
-Malla Reddy Engineering College,
+B-Tech, Computer Science,  
+Malla Reddy Engineering College,  
 India.
 
 # CONTACT DETAILS
-Dinesh
-Email: karrug@karrug.com
-Ph: 9441883248
-Github: https://github.com/druuu
-LinkedIn: https://www.linkedin.com/in/dinesh-deshmukh-4376741a0/
-When ready, simply use the Dockerfile to build the image.
+Dinesh  
+Email: karrug@karrug.com  
+Ph: 9441883248  
+Github: https://github.com/druuu  
+LinkedIn: https://www.linkedin.com/in/dinesh-deshmukh-4376741a0/  
