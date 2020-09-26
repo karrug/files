@@ -19,6 +19,7 @@ set clipboard=unnamedplus
 
 " autoindent based on filetype
 filetype plugin indent on
+set ts=2 sts=2 sw=2
 au FileType python setlocal tabstop=4
 au FileType python setlocal softtabstop=4
 au FileType html setlocal tabstop=2
